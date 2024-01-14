@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+}
+.nav {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+.nav:hover {
+  background-color: red;
+  transition: all 1s;
+}
+
+.title {
+  color: #222222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
+.text {
+  color: #7d7987;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+}
+.title_two {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
